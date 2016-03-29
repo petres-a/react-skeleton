@@ -1,0 +1,11 @@
+.invisible{
+  visibility: hidden
+}
+
+.visible{
+  visibility: visible;
+}
+
+.errorMessage {
+    background-color: red;
+}

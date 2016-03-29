@@ -1,5 +1,5 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
-var List = require('./components/List.jsx');
+var LeadCapture = require('./components/LeadCapture.jsx');
 
-ReactDOM.render(<List />, document.getElementById('ingredients'));
+ReactDOM.render(<LeadCapture />, document.getElementById('email'));
